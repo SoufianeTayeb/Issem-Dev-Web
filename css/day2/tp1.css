@@ -1,0 +1,28 @@
+.title1{
+   background-color: red;
+   font-family: Cambria;
+   color: aliceblue;
+   letter-spacing: 0.5cm;
+   text-align: center;
+}
+.txt1{
+   border: dotted;
+   border-width: 5px;
+   color:tomato;
+   background-color: black;
+   width: 200px;
+   
+}
+.txt2{
+   border: double;
+   border-width: 5px;
+   color: blue;
+   background-color: bisque;
+   width: 200px;
+}
+.text-container{
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;   
+}
